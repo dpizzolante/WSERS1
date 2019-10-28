@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Kapitel 3 - Aufgabe B2</title>
+</head>
+<body>
+    <p>Bitte geben Sie de Gesamtbetrag, den Betrag der pro Enkelkind verschenkt werden soll und die Anzahl an Enkelkindern:</p>
+            <form action "aufgabeB2.php" method="post">
+                <label for="totalAmount">Gesamtbetrag: </label>
+                <input id="totalAmount" type="number" name="DATA_totalAmount" required="">
+
+                <label for="amount">Betrag pro Enkelkind: </label>
+                <input id="amount" type="number" name="DATA_amount" required="">
+
+                <label for="grandchildren">Anzahl an Enkelkinder:</label>
+                <input id="grandchildren" type="number" name="DATA_grandchildren" required="">
+
+                <input type="submit" name="BUTTON_send" value="Berechnen">
+            </form>
+    
+</body></html>

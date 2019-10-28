@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Foxi">
+    <serverData>
+      <paths name="Foxi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/PROF/kribe039/2019-20/WSERS1/" local="$PROJECT_DIR$" web="/PROF/kribe039/2019-20/WSERS1/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
